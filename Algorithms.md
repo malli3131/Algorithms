@@ -4,3 +4,11 @@
  * ø - Theta
  * O - Big O
  * Ω - Omega
+
+Time Complexities:
+
+O(1) - Non loop/ Non recursive
+O(n) - Loops
+O(n2) - Nested Loops
+O(logn) - Loops/Binary Search
+O(loglogn) - Loops with exponential
